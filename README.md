@@ -24,18 +24,18 @@ An all-in-one contact section located in the footer my portfolio page. It featur
 
 ## Link to Deployed Application
 
-
+https://gmilteer.github.io/
 
 ## Future Developments
 
-    1. Rework and refine styling
+    1. Rework and add more styling
     2. Add more dynamic features
     3. Include more content throughout
     4. Refine the mobile responsiveness
 
 ## Support
 
-For questions, comments or concerns regarding Dev-Portfolio, please email me at gmilteer@gmail.com
+For questions, comments or concerns regarding this portfolio, please email me at gmilteer@gmail.com
 
 ## Contributing
 
