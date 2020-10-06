@@ -40,3 +40,7 @@ For questions, comments or concerns regarding this portfolio, please email me at
 ## Contributing
 
 Georgia Milteer
+
+## Resume Link
+
+https://docs.google.com/document/d/1W2FG-iI43y_4Ln6PHJCIyqpOsuXxWn7H_OhYiZtdM8o/edit?usp=sharing
