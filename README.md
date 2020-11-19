@@ -4,7 +4,7 @@ Portfolio-Website is an application that showcases my recent work, supplies user
 
 ## Description
 
-Upon entering the applciation, users are greeted with a minimalist home page featuring a variety of buttons users can click to navigate throughout the page. This application features three main sections: About, Portfolio and Contact.
+Upon entering the applciation, users are greeted with a minimalist home page featuring a variety clickable option users can click to navigate throughout the page. This application features sections: Home, About, Resume, Works and Contact.
 
 ### About Section
 
@@ -16,15 +16,13 @@ A showcase of my most recent projects and users can click on the photos, where u
 
 ### Contact Section
 
-An all-in-one contact section located in the footer my portfolio page. It features links to my LinkedIn, gitHub, Email and resume.
+An area for user to contact me directly.
 
 ## Visuals
 
-![](Assets/portfolio.png)
+![](./public/images/React-Portfolio.png)
 
 ## Link to Deployed Application
-
-https://gmilteer.github.io/
 
 ## Future Developments
 
@@ -40,7 +38,3 @@ For questions, comments or concerns regarding this portfolio, please email me at
 ## Contributing
 
 Georgia Milteer
-
-## Resume Link
-
-https://docs.google.com/document/d/1W2FG-iI43y_4Ln6PHJCIyqpOsuXxWn7H_OhYiZtdM8o/edit?usp=sharing
